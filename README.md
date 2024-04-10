@@ -6,12 +6,12 @@ Use q learning for maze solving.
 
 ## Maze ScreenShot
 
-The maze goes from the top left to the bottom right. '|' denotes walls, 'X' indicates the treasure chest's location, and 'o' represents the current position of the mouse."
+The maze goes from the top left to the bottom right.
 ![Maze](https://github.com/dylan19980201/q_learning_maze/blob/main/maze.png)
-T = endpoint, 
-| = wall,
-X = treasure location,
-o = position of the mouse
+T = endpoint, <br />
+| = wall, <br />
+X = treasure location, <br />
+o = position of the mouse <br />
 
 ## result
 
